@@ -12,7 +12,7 @@ Comics API — это REST API для управления коллекцией 
 
 ### 1. Клонирование репозитория
 ```bash
-git clone <ссылка-на-ваш-репозиторий>
+git clone https://github.com/Soffffan/Comics
 cd comics-api
 ```
 
